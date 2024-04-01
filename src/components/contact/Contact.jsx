@@ -2,7 +2,8 @@
 import { Box, styled, Typography, Link } from '@mui/material';
 import {LinkedIn, Email } from '@mui/icons-material';
 const Banner = styled(Box)`
-    background-image: url(http://mrtaba.ir/image/bg2.jpg);
+    background-image: url(https://images.pexels.com/photos/618613/pexels-photo-618613.jpeg?auto=compress&cs=tinysrgb&w=600
+);
     width: 100%;
     height: 50vh;
     background-position: left 0px top -100px;
